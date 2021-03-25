@@ -18,14 +18,14 @@
   },
   "dependencies": {
     "expo": "^33.0.0",
-    "react": "16.8.3",
     "moment": "^2.22.1",
-    "react-dom": "^16.8.6",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.1.tar.gz",
     "react-native-action-button": "2.8.4",
-    "react-navigation": "1.4.0",
     "react-native-modal-datetime-picker": "4.13.0",
-    "uuid": "3.2.1",
-    "react-native-web": "^0.11.4"
+    "react-native-web": "^0.11.4",
+    "react-navigation": "1.4.0",
+    "uuid": "3.2.1"
   }
 }

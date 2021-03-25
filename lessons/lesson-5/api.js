@@ -7,7 +7,7 @@ const api = manifest.packagerOpts.dev
   ? manifest.debuggerHost.split(`:`).shift().concat(`:3000`)
   : `api.example.com`;
 
-const url = `http://${api}/events`;
+const url = `http://localhost:3000/events`;
 
 export function getEvents() {
   return fetch(url)
